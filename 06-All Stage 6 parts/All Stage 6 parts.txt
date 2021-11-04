@@ -15496,5 +15496,5 @@
       "esut": "TRANSMISSION",
       "esdb": "MercedesAMG_G63SUVReward_2020"
     },
-    10,
+    10
   ],
